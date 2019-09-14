@@ -3,7 +3,6 @@
 <h3> One last test </h3>
 
 <p>This is a Test Paragraph for CI&CD</p>
-<p>Looding...</p>
+
 <p>Featured SCM-Jenk</p>
-<p>iter-timestamp</p>
-<p>MOUSE</p>>
+<p>Loading...</p>

@@ -23,8 +23,10 @@ tr:nth-child(even) {
 
 <h1>    Hello, Welcome to My Cloud    </h1>
 
-<h3>1. Docker Enabled Successfully </br>
-   Github --> Jenkins (-->Ansible-->DockerHub-->Ansible-->Docker) - CI&CD</h3>
+<h4>1. Docker Enabled Successfully </br>
+   Github --> Jenkins (-->Ansible-->DockerHub-->Ansible-->Docker) - CI&CD</h4>
+<h3>2. K8s </br>
+   Containers Orchestrations</h3>
 <table>
   <tr>
     <th>Deployed</th>

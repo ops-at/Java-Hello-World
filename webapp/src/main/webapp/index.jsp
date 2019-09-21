@@ -48,7 +48,6 @@ tr:nth-child(even) {
 
 
 <!--
-<p>Changing This File would directly Hit Change in Docker Status due to CI&CD</p>
 
 <h1>===== Hello, Welcome to My Cloud ======</h1>
 <h1>=======================================</h1>

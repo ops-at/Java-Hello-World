@@ -25,7 +25,7 @@ tr:nth-child(even) {
 
 <h4>1. Docker Enabled Successfully </br>
    Github --> Jenkins (-->Ansible-->DockerHub-->Ansible-->Docker) - CI&CD</h4>
-<h3>2. K8s </br>
+<h3>2. K8s/DockerSwarm </br>
    Containers Orchestrations</h3>
 <table>
   <tr><th>Deployments</th><th></th><th></th></tr>

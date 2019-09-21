@@ -28,41 +28,18 @@ tr:nth-child(even) {
 <h3>2. K8s </br>
    Containers Orchestrations</h3>
 <table>
-  <tr>
-    <th>Deployed</th>
-    <th>Extended</th>
-    <th>Featured</th>
-  </tr>
-    <tr>
-    <td>Git</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Jenkins</td>
-    <td>Maven</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Ansible</td>
-    <td>PlayBooks</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Dockers</td>
-    <td>DockerHub</td>
-    <td>CI&CD</td>
-  </tr>
-    <tr>
-    <td>AWS-CLI</td>
-    <td>Mid</td>
-    <td>Loading</td>
-  </tr>
-     <tr>
-    <td>Clouds</td>
-    <td>AWS</td>
-    <td>GCP</td>
-  </tr>
+  <tr><th>Deployments</th><th></th><th></th></tr>
+  <tr><td>Git (Codes)</td><td></td><td></td></tr>
+  <tr><td>Maven (Build)</td><td></td><td></td></tr>
+  <tr><td>JUnit (Test)</td><td></td><td></td></tr>
+  <tr><td>Jenkins (Release)</td><td></td><td></td></tr>
+  <tr><td>Ansible (Deploy)</td><td></td><td></td></tr>
+  <tr><td>Nagios (Monitoring)</td><td></td><td></td></tr>
+  <tr><td>Cloud - AWS & GCP</td><td></td><td></td></tr>
+  <tr><td>Dockers</td><td></td><td></td></tr>
+  <tr><td>K8s</td><td></td><td></td></tr>
+  <tr><td>Nexus (Artifacts Repositories)</td><td></td><td></td></tr>
+  <tr><td>Sonar Qubes (Monitoring Code)</td><td></td><td></td></tr>
 </table>
 
 </body>

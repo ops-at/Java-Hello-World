@@ -11,4 +11,4 @@
 <h1><b>Docker Enabled Successfully</b></h1>
 <H2><i>System Updated</i></H2>
 <p>Loading...</p>
-<h2> Deploying on Kubernetes - K8s</h2>
+<h2> Deploying on Kubernetes - K8s</h2>  -->
